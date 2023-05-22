@@ -1,2 +1,0 @@
-# booksapp
-Simple ReactJS app
