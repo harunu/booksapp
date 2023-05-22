@@ -1,0 +1,20 @@
+  /*
+  .sortContainer {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+  } */
+
+  .bookContainer {
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px; */
+    border-bottom: 1px solid #e0e0e0; /* Add a light grey border at the bottom */
+    padding: 1rem; /* Add padding around the book result */
+    margin-bottom: 1rem; /* Add margin at the bottom */
+  }
+
